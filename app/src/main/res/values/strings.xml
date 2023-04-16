@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LumiaryChat</string>
+    <string name="title_activity_nav_compose_app">NavComposeApp</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_authentication_option">AuthenticationOption</string>
+    <string name="title_activity_widgets">Widgets</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_home_view_model">HomeViewModel</string>
+    <string name="title_activity_login_view_model">LoginViewModel</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register_view_model">RegisterViewModel</string>
+    <string name="title_activity_register">Register</string>
+</resources>
